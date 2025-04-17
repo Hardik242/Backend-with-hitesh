@@ -1,0 +1,21 @@
+{
+    "name": "chai-backend",
+    "version": "1.0.0",
+    "description": "Chai backend project",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "dev": "nodemon src/index.js"
+    },
+    "keywords": [
+        "npm",
+        "chai",
+        "hardik",
+        "backend"
+    ],
+    "author": "Hardik Goel",
+    "license": "ISC",
+    "devDependencies": {
+        "nodemon": "^3.1.9"
+    }
+}
